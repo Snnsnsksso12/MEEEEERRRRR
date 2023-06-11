@@ -1,0 +1,6 @@
+aiogram==2.19
+httpx==0.22.0
+lxml==4.8.0
+pyQiwiP2P==1.0.1
+requests==2.27.1
+Telethon==1.24.0
